@@ -35,15 +35,15 @@ $autoplay = "on";
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- LOAD JQUERY LIBRARY -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
 
 	<!-- DEMO STYLE SHEET - NO NEED FOR FURTHER USE-->	
 	<link rel='stylesheet' type='text/css' href='../../assets/css/noneed.css'>
 
 	
 	<!-- LOADING FONTS AND ICONS -->
-	<link href="http://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
-	<link href="http://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+	<link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+	<link href="//fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
 	<link rel='stylesheet' type='text/css' href='../../revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css' >	
 	<link rel='stylesheet' type='text/css' href='../../revolution/fonts/font-awesome/css/font-awesome.css' >	
 	

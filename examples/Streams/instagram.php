@@ -28,7 +28,7 @@ $photos = $instagram->get_public_photos($search_user_id);
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- LOAD JQUERY LIBRARY -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+	<script type="text/javascript" src="//googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
 
 	<!-- DEMO STYLE SHEET - NO NEED FOR FURTHER USE-->	
 	<link rel='stylesheet' type='text/css' href='../../assets/css/noneed.css'>
